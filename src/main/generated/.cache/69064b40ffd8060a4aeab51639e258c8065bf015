@@ -1,0 +1,4 @@
+// 26.1.2	-999999999-01-01T00:00:00	Efe's Co-op Overhaul/Block Loot Tables
+2fa775bab439d9172b2967f5e1c532fb2743ebc1 data/efe_coop_overhaul/loot_table/blocks/azurite_block.json
+694fe056321824890d0501f4ea24c7ef4948fc9f data/efe_coop_overhaul/loot_table/blocks/azurite_ore.json
+849c09496f3cb5343cbd3ecfb87141510de46ff1 data/efe_coop_overhaul/loot_table/blocks/raw_azurite_block.json

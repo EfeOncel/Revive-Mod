@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "efe_coop_overhaul:block/azurite_block"
+  }
+}

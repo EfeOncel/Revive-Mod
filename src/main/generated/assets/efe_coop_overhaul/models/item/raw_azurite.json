@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "efe_coop_overhaul:item/raw_azurite"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "efe_coop_overhaul:raw_azurite_block"
+  ],
+  "result": {
+    "count": 9,
+    "id": "efe_coop_overhaul:raw_azurite"
+  }
+}
