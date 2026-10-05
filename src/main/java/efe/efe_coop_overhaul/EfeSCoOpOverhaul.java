@@ -2,6 +2,7 @@ package efe.efe_coop_overhaul;
 
 import efe.efe_coop_overhaul.block.ModBlocks;
 import efe.efe_coop_overhaul.creativemodetab.ModCreativeModeTabs;
+import efe.efe_coop_overhaul.event.ModEvents;
 import efe.efe_coop_overhaul.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 
@@ -19,6 +20,8 @@ public class EfeSCoOpOverhaul implements ModInitializer {
 		ModCreativeModeTabs.registerCreativeModTabs();
 		ModItems.registerModItems();
 		ModBlocks.registerModBlocks();
+
+		ModEvents.registerEvents();
 
 	}
 
