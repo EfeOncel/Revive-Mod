@@ -18,6 +18,9 @@
 		"main": [
 			"efe.efe_coop_overhaul.EfeSCoOpOverhaul"
 		],
+		"client": [
+			"efe.efe_coop_overhaul.client.EfeCoopOverhaulClient"
+		],
 		"fabric-datagen": [
 			"efe.efe_coop_overhaul.EfeSCoOpOverhaulDataGenerator"
 		]

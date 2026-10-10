@@ -4,6 +4,7 @@ import efe.efe_coop_overhaul.block.ModBlocks;
 import efe.efe_coop_overhaul.creativemodetab.ModCreativeModeTabs;
 import efe.efe_coop_overhaul.event.ModEvents;
 import efe.efe_coop_overhaul.item.ModItems;
+import efe.efe_coop_overhaul.network.ModNetworking;
 import net.fabricmc.api.ModInitializer;
 
 import net.minecraft.resources.Identifier;
@@ -22,6 +23,8 @@ public class EfeSCoOpOverhaul implements ModInitializer {
 		ModBlocks.registerModBlocks();
 
 		ModEvents.registerEvents();
+
+		ModNetworking.registerC2SPackets();
 
 	}
 
